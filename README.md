@@ -1,5 +1,5 @@
 TACO_ALERT
-
+!! BEST.PT AND LAST.PT ADDED AS A RELEASE DUE TO FILE SIZE LIMITATIONS !!
 
 
 YOLOv8-based waste detection and geolocation in natural environmentsSamsung Innovation Campus Capstone Project – Final Report (April–May 2025)
